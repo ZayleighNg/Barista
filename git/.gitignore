@@ -1,0 +1,33 @@
+# global
+.env
+coverage
+build
+dist
+logs
+.coverage
+.dccache
+coverage.xml
+
+# npm
+node_modules
+.npm
+.turbo
+npm-debug.log
+.npmrc
+bundle_analysis.html
+
+# mac
+.DS_Store
+
+# python
+__pycache__
+.pyc
+.egg-info
+venv
+
+# mkcert
+.cert
+.key
+
+# docker
+.devcontainer.json
